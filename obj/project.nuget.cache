@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NOKgZYCCxbk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grind\\Downloads\\iis.Stupid.Template-1.9.8\\iis.Stupid.Template-1.9.8\\StupidTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grind\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512",
+    "C:\\Users\\grind\\.nuget\\packages\\netstandard.library.ref\\2.1.0\\netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
